@@ -14,7 +14,7 @@ Angular es un **framework** (marco de trabajo completo) de código abierto desar
 
 ---
 
-## Configuración del Entorno 
+## ¿Qué herramientas necesitan instalar?
 
 Para comenzar  Angular debemos  instalar las siguientes herramientas:
 
