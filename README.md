@@ -10,7 +10,7 @@ Angular es un **framework** (marco de trabajo completo) de código abierto desar
 
 * **TypeScript:** Lenguaje base (JavaScript con tipado estático) que permite detectar errores antes de la ejecución.
 * **Arquitectura basada en Componentes:** La interfaz se divide en piezas pequeñas, independientes y reutilizables.
-* **Modularidad:** Organización del código en bloques llamados **NgModules**, facilitando el mantenimiento y la escalabilidad.
+
 
 ---
 
